@@ -1,4 +1,4 @@
-# ixlab_wiset
+#wiset 프로젝트 코드 정리 
 사회 안전망 확충을 위한 모바일 360 영상에서의 딥러닝 기반 이벤트 인식 기술 
 
 hts ( https://github.com/RetroCirce/HTS-Audio-Transformer 참고 + 추가 수정)
