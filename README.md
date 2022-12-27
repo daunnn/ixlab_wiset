@@ -7,7 +7,6 @@ hts ( https://github.com/RetroCirce/HTS-Audio-Transformer 참고 + 추가 수정
 Localize ( https://github.com/MertCokelek/360-degree-SSSL 참고 + 추가 수정)
 ->  위험군 소리 시각화
 
-시각화 예시 
-/newline
+
 ![image](https://user-images.githubusercontent.com/98380084/209708310-dd2ad2e7-e208-4fdf-b51c-0627fdad1216.png)
 
